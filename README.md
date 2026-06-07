@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm YEN-HSIN!</h1>
 <h3 align="center">A Master student in NCKU Electrical Engineering from Taiwan</h3>
 
-- 🔭 I’m currently working on [rm_preshift](https://github.com/yhsindev/rm_preshift)
+- 🔭 I’m currently working on [kernel-hash](https://github.com/yhsindev/kernel-hash)
 
 - 🌱 I’m currently aspiring **to become a Systems & Networking Software Engineer (C/C++, Linux, Performance)**
 
