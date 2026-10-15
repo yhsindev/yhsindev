@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **open source project**
 
-- 👨‍💻 All of my projects are available at [https://github.com/yhsindev/yhsindev.github.io](https://github.com/yhsindev/yhsindev.github.io)
+- 👨‍💻 All of my projects are available at [yhsindev.github.io](/yhsindev.github.io)
 
 - 📫 How to reach me **yhsindev@gmail.com**
 
